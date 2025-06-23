@@ -1,6 +1,6 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #f4f4f4;
+  background-color: blue;
   padding: 2rem;
 }
 
@@ -26,6 +26,8 @@ input[type="text"] {
 
 button {
   padding: 10px 15px;
+  color: chartreuse;
+  background-color: coral;
 }
 
 #guest-list li {
